@@ -1,0 +1,2 @@
+id,date_set,what_i_will_publish,prediction,stop_condition,check_date,result,miss_reason(topic|place|price)
+1,2026-10-28,"example: article X on place Y","views>=300 and likes>=5 in 7 days","views<300 -> fix the entrance (title, tags, time); views>=300 and likes<5 -> fix the content",2026-11-04,,
